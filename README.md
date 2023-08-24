@@ -10,7 +10,6 @@
 
 10 Million Rows MSSQL Backup File with Clustered Columnstore Index.
 
-This dataset contains
 -27K categorized Turkish supermarket items.
 
 -81 stores (Every city of Turkey has a store)
